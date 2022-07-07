@@ -1,1 +1,5 @@
-
+button:hover {
+    color: ghostwhite;
+    transition: 2s; background-color: cornflowerblue;
+}
+/* button will transition from ghostwhite to cornflowerblue as soon as the mouse hovers over it
